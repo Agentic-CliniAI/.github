@@ -2,7 +2,7 @@
 
 > 构建可信、安全、开源的临床智能代理
 
-[![Website](https://img.shields.io/badge/website-agentic--clinai.github.io-blue)](https://agentic-clinai.github.io)
+[![Website](https://img.shields.io/badge/website-agentic--clinai.github.io-blue)](https://agentic-cliniai.github.io)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE)
 
 ## 🎯 使命
@@ -17,7 +17,7 @@ Agentic-CliniAI 致力于创建安全、透明、可审计的AI工具，辅助�
 
 ## 🤝 贡献
 
-欢迎开发者、临床专家、研究人员加入我们！查看 [贡献指南](https://agentic-clinai.github.io#contribute)。
+欢迎开发者、临床专家、研究人员加入我们！查看 [贡献指南](https://agentic-cliniai.github.io#contribute)。
 
 ## 📄 许可证
 
