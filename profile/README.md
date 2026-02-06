@@ -1,28 +1,21 @@
 # Agentic-CliniAI
+> 致力于创建安全、透明、可溯源的AI诊疗工具，辅助医疗专业人员提升诊疗效率与准确性。
 
-> 构建可信、安全、开源的临床智能代理
-
-<!-- [![Website](https://img.shields.io/badge/website-agentic--cliniai.github.io-blue)](https://agentic-cliniai.github.io)
+[![Website](https://img.shields.io/badge/website-agentic--cliniai.github.io-blue)](https://agentic-cliniai.github.io)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE)
 
-## 🎯 使命
+- **Clinical Agentic Engine** - 主诊智能体代理系统
+- **Evidence Tracking Agentic Engine** - 循证医学决策支持代理系统
+- **SafeGuard Agentic Engine** - 医疗AI安全代理系统
 
-Agentic-CliniAI 致力于创建安全、透明、可溯源的AI诊疗工具，辅助医疗专业人员提升诊疗效率与准确性。
+## 📚 知识与工具
 
-## 📦 核心项目
+| 项目 | 描述 | 仓库 |
+|------|------|------|
+| **Awesome Clinical Agents** | 临床Agent领域论文、数据集的系统性调研整理 | [`awesome-clinical-agents`](https://github.com/Agentic-CliniAI/Awesome-Clinical-Agents) |
+| **Knowledge Base** | 结构化医学知识库：疾病-症状-治疗关系图谱与临床指南编码 | [`knowledge-base`](https://github.com/Agentic-CliniAI/KnowledgeBase) |
+| **Clinical Toolkit** | 多模态诊疗工具集：影像/文本/时序数据的预处理与特征提取 | [`clinical-toolkit`](https://github.com/Agentic-CliniAI/Clinical-Toolkit) |
+| **SafeGuard Toolkit** | 医疗AI安全框架：幻觉检测、不确定性量化、偏差校验与反馈机制 | [`safeguard-toolkit`](https://github.com/Agentic-CliniAI/Safeguard-Toolkit) |
 
-- **Clinical NLP Engine** - 临床文本自然语言处理引擎
-- **MedDecision Agent** - 循证医学决策支持代理
-- **SafeGuard Toolkit** - 医疗AI安全框架
-
-## 🤝 贡献
-
-欢迎开发者、临床专家、研究人员加入我们！查看 [贡献指南](https://agentic-cliniai.github.io#contribute)。
-
-## 📄 许可证
-
-本组织项目遵循 Apache 2.0 许可证。
 
 ---
-
-**免责声明**：本工具为辅助决策支持，不替代专业医疗判断。 -->
