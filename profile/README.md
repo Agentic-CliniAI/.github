@@ -2,7 +2,7 @@
 > 致力于创建安全、透明、可溯源的AI诊疗工具，辅助医疗专业人员提升诊疗效率与准确性。
 
 [![Website](https://img.shields.io/badge/website-agentic--cliniai.github.io-blue)](https://agentic-cliniai.github.io)
-[![License](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE)
+
 
 - **Clinical Agentic Engine** - 主诊智能体代理系统
 - **Evidence Tracking Agentic Engine** - 循证医学决策支持代理系统
