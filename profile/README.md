@@ -86,6 +86,7 @@
 ## 核心项目
 
 - **DermAgent** — 皮肤科多Agent诊断系统 [`dermagent`](https://github.com/agentic-cliniai/dermagent)
+- **Möbius** — 双向互监督框架：充分发挥 SAM 的视觉理解能力与 LVLM 的语义推理能力。两者双向互补，构建可信赖的医学视觉语言系统 [`mobius`](https://github.com/agentic-cliniai/mobius)
 - **Evidence Tracking Agent** — 循证医学决策支持代理系统 [`meddecision`](https://github.com/agentic-cliniai/meddecision)
 - **SafeGuard Toolkit** — 医疗AI安全框架 [`safeguard`](https://github.com/agentic-cliniai/safeguard)
 
