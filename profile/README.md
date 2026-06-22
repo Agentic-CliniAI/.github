@@ -23,6 +23,7 @@
 
 - 🩺 **DermAgent** — 皮肤科多Agent诊断系统 [`dermagent`](https://agentic-cliniai.github.io/dermagent.html)
 - 🔁 **Möbius** — 双向互监督框架：充分发挥 SAM 的视觉理解能力与 LVLM 的语义推理能力。两者双向互补，构建可信赖的医学视觉语言系统 [`mobius`](https://github.com/agentic-cliniai/mobius)
+- 🔍 **Counterfactual Hallucination Detection** — 基于反事实视觉定位不确定性，检测 LVLM 的临床幻觉 (MICCAI 2026) [`counterfactual-hallucination-detect`](https://github.com/Agentic-CliniAI/Counterfactual-Hallucination-Detect)
 - 🛡️ **SafeGuard Toolkit** — 医疗AI安全框架 [`safeguard`](https://github.com/Agentic-CliniAI/Safeguard-Toolkit)
 
 ---
