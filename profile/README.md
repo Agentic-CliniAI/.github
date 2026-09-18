@@ -26,15 +26,15 @@
 * [`Mobuis`](https://github.com/agentic-cliniai/mobius) ： 对齐SAM 的视觉理解能力与 LVLM 的语义推理能力。
 
 🔍 **LVLM幻觉检测** — 检测 LVLM 的临床幻觉
-* [EMNLP 2026 Main] [`MedF2Route`](https://github.com/Agentic-CliniAI/MedF2Route): 将黑盒幻觉检测任务定义成证据路由问题，再结合临床推理文本特点进行语义图谱构建、划分、证据路由、幻觉检测。
-* [MICCAI 2026] [`CounterVHD`](https://github.com/Agentic-CliniAI/Counterfactual-Hallucination-Detect): 基于反事实视觉定位不确定性，检测 LVLM 的临床幻觉
+* [`MedF2Route`](https://github.com/Agentic-CliniAI/MedF2Route) [EMNLP 2026 Main]: 将黑盒幻觉检测任务定义成证据路由问题，再结合临床推理文本特点进行语义图谱构建、划分、证据路由、幻觉检测。
+* [`CounterVHD`](https://github.com/Agentic-CliniAI/Counterfactual-Hallucination-Detect) [MICCAI 2026]: 基于反事实视觉定位不确定性，检测 LVLM 的临床幻觉
 * [`MedFH`](https://github.com/Agentic-CliniAI/MedFH): 将临床推理文本拆分成语义树，再根据其逻辑关系构建逻辑线索树，重点检测生成内容的忠实性问题。再根据语言的自回归和错误传播特性，校准首个幻觉发生节点并重新生成后续文本。
 
 
 🔍 **Agent研究** 
-* [应用开发赛][`silicon-power`](https://www.modelscope.cn/events/254/%E7%A1%85%E5%9F%BA%E8%B5%9B%E9%81%93%EF%BC%88%E6%99%BA%E8%83%BD%E4%BD%93%E8%B5%9B%E9%81%93%EF%BC%89%E5%A4%8D%E8%B5%9B%E6%99%8B%E7%BA%A7%E7%BB%93%E6%9E%9C%E5%85%AC%E7%A4%BA): 面向问诊、诊断、检查、治疗、token消耗的综合性虚拟医生Agent竞赛（初赛第二名）。
+* [`silicon-power`](https://www.modelscope.cn/events/254/%E7%A1%85%E5%9F%BA%E8%B5%9B%E9%81%93%EF%BC%88%E6%99%BA%E8%83%BD%E4%BD%93%E8%B5%9B%E9%81%93%EF%BC%89%E5%A4%8D%E8%B5%9B%E6%99%8B%E7%BA%A7%E7%BB%93%E6%9E%9C%E5%85%AC%E7%A4%BA) [应用开发赛]: 面向问诊、诊断、检查、治疗、token消耗的综合性虚拟医生Agent竞赛（初赛第二名）。
 
 🔍 **知识图谱与因果推理** 
-* [ACM BCB 2024]  [`Rethinking RRG`](https://dl.acm.org/doi/abs/10.1145/3698587.3701353): 重新思考被广泛应用的疾病共线关系在放射科报告生成任务中的因果效应，发现其混杂性。
+* [`Rethinking RRG`](https://dl.acm.org/doi/abs/10.1145/3698587.3701353) [ACM BCB 2024]: 重新思考被广泛应用的疾病共线关系在放射科报告生成任务中的因果效应，发现其混杂性。
 ***
 
